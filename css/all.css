@@ -16,7 +16,8 @@ html {
   font-size: 15px; }
 
 body {
-  font-family: arial,'Noto Sans TC','微軟正黑體', sans-serif; }
+  font-family: arial,'Noto Sans TC','微軟正黑體', sans-serif;
+background-color:#f5f6fa;}
 
 footer {
   padding: 1rem 0;
